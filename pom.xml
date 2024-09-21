@@ -10,7 +10,6 @@
   <modules>
     <module>jpa-entities</module>
     <module>module-intellij-created</module>
-    <module>web-api</module>
   </modules>
 
   <properties>
