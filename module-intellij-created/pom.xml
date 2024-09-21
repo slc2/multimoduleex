@@ -4,18 +4,14 @@
     <parent>
         <groupId>learn.lynn</groupId>
         <artifactId>multimoduleex</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>${revision}</version>
     </parent>
 
     <artifactId>module-intellij-created</artifactId>
     <packaging>jar</packaging>
 
     <name>module-intellij-created</name>
-    <url>http://maven.apache.org</url>
 
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
