@@ -8,9 +8,17 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea/encodings.xml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/vcs.xml
 *.iws
 *.iml
 *.ipr
+
+### Maven ###
+.flattened-pom.xml
+
 
 ### Eclipse ###
 .apt_generated
@@ -37,6 +45,4 @@ build/
 ### Mac OS ###
 .DS_Store
 
-### Maven ###
-.flattened-pom.xml
-.idea
+
